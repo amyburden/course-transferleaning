@@ -1,400 +1,200 @@
-1
-loss: 6.4977	acc: 0.0291	val_loss: 5.1014	val_acc: 0.0508
-2
-loss: 4.3510	acc: 0.1228	val_loss: 4.3140	val_acc: 0.1914
-3
-loss: 3.4170	acc: 0.2329	val_loss: 3.5394	val_acc: 0.2500
-4
-loss: 2.8458	acc: 0.3264	val_loss: 3.6144	val_acc: 0.2031
-5
-loss: 2.4460	acc: 0.4026	val_loss: 3.2732	val_acc: 0.2852
-6
-loss: 2.1460	acc: 0.4724	val_loss: 3.0447	val_acc: 0.3828
-7
-loss: 1.9155	acc: 0.5239	val_loss: 3.0068	val_acc: 0.3906
-8
-loss: 1.7280	acc: 0.5691	val_loss: 2.9895	val_acc: 0.3945
-9
-loss: 1.5717	acc: 0.6099	val_loss: 3.2345	val_acc: 0.3867
-10
-loss: 1.4375	acc: 0.6423	val_loss: 2.9900	val_acc: 0.3750
-11
-loss: 1.3197	acc: 0.6733	val_loss: 2.8878	val_acc: 0.4453
-12
-loss: 1.2137	acc: 0.6968	val_loss: 3.0043	val_acc: 0.4453
-13
-loss: 1.1197	acc: 0.7188	val_loss: 2.6508	val_acc: 0.4805
-14
-loss: 1.0380	acc: 0.7388	val_loss: 2.8839	val_acc: 0.4727
-15
-loss: 0.9626	acc: 0.7563	val_loss: 3.0167	val_acc: 0.4180
-16
-loss: 0.8950	acc: 0.7734	val_loss: 3.0748	val_acc: 0.4297
-17
-loss: 0.8333	acc: 0.7883	val_loss: 2.6676	val_acc: 0.4648
-18
-loss: 0.7778	acc: 0.8042	val_loss: 2.8488	val_acc: 0.4961
-19
-loss: 0.7256	acc: 0.8188	val_loss: 3.0684	val_acc: 0.4688
-20
-loss: 0.6797	acc: 0.8262	val_loss: 2.7374	val_acc: 0.5156
-21
-loss: 0.6386	acc: 0.8398	val_loss: 2.6478	val_acc: 0.5117
-22
-loss: 0.5993	acc: 0.8496	val_loss: 2.8191	val_acc: 0.5117
-23
-loss: 0.5638	acc: 0.8604	val_loss: 2.7634	val_acc: 0.5430
-24
-loss: 0.5309	acc: 0.8667	val_loss: 2.6866	val_acc: 0.5039
-25
-loss: 0.4944	acc: 0.8767	val_loss: 3.1330	val_acc: 0.4883
-26
-loss: 0.4636	acc: 0.8843	val_loss: 3.2092	val_acc: 0.4531
-27
-loss: 0.4356	acc: 0.8906	val_loss: 2.5653	val_acc: 0.5391
-28
-loss: 0.4115	acc: 0.8972	val_loss: 3.0230	val_acc: 0.5273
-29
-loss: 0.3856	acc: 0.9067	val_loss: 3.2831	val_acc: 0.4414
-30
-loss: 0.3612	acc: 0.9111	val_loss: 3.2927	val_acc: 0.4724
-31
-loss: 0.3431	acc: 0.9155	val_loss: 2.7877	val_acc: 0.5078
-32
-loss: 0.3176	acc: 0.9214	val_loss: 3.0555	val_acc: 0.5117
-33
-loss: 0.3001	acc: 0.9255	val_loss: 3.1472	val_acc: 0.5156
-34
-loss: 0.2844	acc: 0.9302	val_loss: 2.8081	val_acc: 0.5586
-35
-loss: 0.2639	acc: 0.9333	val_loss: 2.9761	val_acc: 0.5547
-36
-loss: 0.2538	acc: 0.9385	val_loss: 3.3499	val_acc: 0.4803
-37
-loss: 0.2427	acc: 0.9412	val_loss: 2.5670	val_acc: 0.5742
-38
-loss: 0.2297	acc: 0.9446	val_loss: 3.0347	val_acc: 0.5312
-39
-loss: 0.2209	acc: 0.9456	val_loss: 2.6050	val_acc: 0.5156
-40
-loss: 0.2057	acc: 0.9526	val_loss: 2.8806	val_acc: 0.5391
-41
-loss: 0.1906	acc: 0.9546	val_loss: 3.4844	val_acc: 0.5039
-42
-loss: 0.1842	acc: 0.9573	val_loss: 3.1740	val_acc: 0.5352
-43
-loss: 0.1768	acc: 0.9607	val_loss: 3.4956	val_acc: 0.5234
-44
-loss: 0.1664	acc: 0.9607	val_loss: 3.1499	val_acc: 0.5273
-45
-loss: 0.1579	acc: 0.9622	val_loss: 3.4685	val_acc: 0.5078
-46
-loss: 0.1560	acc: 0.9607	val_loss: 3.2492	val_acc: 0.5273
-47
-loss: 0.1422	acc: 0.9646	val_loss: 3.3802	val_acc: 0.4648
-48
-loss: 0.1363	acc: 0.9670	val_loss: 3.1693	val_acc: 0.4961
-49
-loss: 0.1308	acc: 0.9680	val_loss: 3.0463	val_acc: 0.5391
-50
-loss: 0.1235	acc: 0.9680	val_loss: 4.1001	val_acc: 0.4805
-1
-loss: 3.2192	acc: 0.5613	val_loss: 2.7964	val_acc: 0.5791
-2
-loss: 2.8498	acc: 0.5969	val_loss: 2.7435	val_acc: 0.5850
-3
-loss: 2.6111	acc: 0.6238	val_loss: 2.6770	val_acc: 0.5904
-4
-loss: 2.4036	acc: 0.6394	val_loss: 2.6425	val_acc: 0.5996
-5
-loss: 2.2327	acc: 0.6560	val_loss: 2.5536	val_acc: 0.6055
-6
-loss: 2.0840	acc: 0.6765	val_loss: 2.5972	val_acc: 0.6055
-7
-loss: 1.9440	acc: 0.6953	val_loss: 2.6022	val_acc: 0.5991
-8
-loss: 1.8241	acc: 0.7104	val_loss: 2.5575	val_acc: 0.6040
-9
-loss: 1.7092	acc: 0.7253	val_loss: 2.5656	val_acc: 0.6094
-10
-loss: 1.6028	acc: 0.7400	val_loss: 2.5277	val_acc: 0.6084
-11
-loss: 1.5048	acc: 0.7566	val_loss: 2.5633	val_acc: 0.6113
-12
-loss: 1.4166	acc: 0.7676	val_loss: 2.5113	val_acc: 0.6099
-13
-loss: 1.3338	acc: 0.7781	val_loss: 2.5670	val_acc: 0.6031
-14
-loss: 1.2541	acc: 0.7927	val_loss: 2.5160	val_acc: 0.6134
-15
-loss: 1.1847	acc: 0.8052	val_loss: 2.6462	val_acc: 0.6007
-16
-loss: 1.1228	acc: 0.8162	val_loss: 2.6077	val_acc: 0.6090
-17
-loss: 1.0634	acc: 0.8257	val_loss: 2.5530	val_acc: 0.6051
-18
-loss: 1.0095	acc: 0.8369	val_loss: 2.6255	val_acc: 0.5963
-19
-loss: 0.9580	acc: 0.8469	val_loss: 2.5242	val_acc: 0.6046
-20
-loss: 0.9149	acc: 0.8586	val_loss: 2.6752	val_acc: 0.6022
-21
-loss: 0.8674	acc: 0.8699	val_loss: 2.4506	val_acc: 0.6227
-22
-loss: 0.8305	acc: 0.8740	val_loss: 2.6011	val_acc: 0.6085
-23
-loss: 0.7929	acc: 0.8845	val_loss: 2.6051	val_acc: 0.6056
-24
-loss: 0.7585	acc: 0.8906	val_loss: 2.6093	val_acc: 0.5963
-25
-loss: 0.7283	acc: 0.8958	val_loss: 2.7364	val_acc: 0.6017
-26
-loss: 0.7024	acc: 0.9053	val_loss: 2.6642	val_acc: 0.6036
-27
-loss: 0.6734	acc: 0.9111	val_loss: 2.6913	val_acc: 0.5963
-28
-loss: 0.6511	acc: 0.9119	val_loss: 2.7788	val_acc: 0.5968
-29
-loss: 0.6286	acc: 0.9172	val_loss: 2.6811	val_acc: 0.5953
-30
-loss: 0.6101	acc: 0.9211	val_loss: 2.7871	val_acc: 0.5973
-31
-loss: 0.5914	acc: 0.9268	val_loss: 2.7677	val_acc: 0.5865
-32
-loss: 0.5726	acc: 0.9290	val_loss: 2.7014	val_acc: 0.5943
-33
-loss: 0.5559	acc: 0.9329	val_loss: 2.9031	val_acc: 0.5924
-34
-loss: 0.5488	acc: 0.9346	val_loss: 2.7474	val_acc: 0.5885
-35
-loss: 0.5321	acc: 0.9368	val_loss: 2.8391	val_acc: 0.6017
-36
-loss: 0.5095	acc: 0.9431	val_loss: 2.6877	val_acc: 0.6017
-37
-loss: 0.4988	acc: 0.9436	val_loss: 2.8867	val_acc: 0.5841
-38
-loss: 0.4885	acc: 0.9463	val_loss: 2.7996	val_acc: 0.6031
-39
-loss: 0.4790	acc: 0.9504	val_loss: 2.7701	val_acc: 0.6065
-40
-loss: 0.4674	acc: 0.9512	val_loss: 2.8357	val_acc: 0.5968
-41
-loss: 0.4523	acc: 0.9536	val_loss: 2.7922	val_acc: 0.6051
-42
-loss: 0.4487	acc: 0.9548	val_loss: 2.8408	val_acc: 0.5914
-43
-loss: 0.4365	acc: 0.9575	val_loss: 2.8762	val_acc: 0.5948
-44
-loss: 0.4312	acc: 0.9597	val_loss: 2.7804	val_acc: 0.6095
-45
-loss: 0.4227	acc: 0.9604	val_loss: 2.8133	val_acc: 0.5977
-46
-loss: 0.4192	acc: 0.9624	val_loss: 2.7895	val_acc: 0.6016
-47
-loss: 0.4105	acc: 0.9629	val_loss: 2.7101	val_acc: 0.6138
-48
-loss: 0.4039	acc: 0.9653	val_loss: 2.8177	val_acc: 0.6040
-49
-loss: 0.3946	acc: 0.9668	val_loss: 2.7849	val_acc: 0.5996
-50
-loss: 0.3948	acc: 0.9658	val_loss: 2.9010	val_acc: 0.5977
-1
-loss: 14.9163 - acc: 0.0369 - val_loss: 14.6963 - val_acc: 0.0586
-2
-loss: 13.7029 - acc: 0.1128 - val_loss: 13.6475 - val_acc: 0.1001
-3
-loss: 13.0862 - acc: 0.1743 - val_loss: 13.6149 - val_acc: 0.0986
-4
-loss: 12.8731 - acc: 0.1926 - val_loss: 13.6992 - val_acc: 0.1064
-5
-loss: 12.7134 - acc: 0.2065 - val_loss: 13.9209 - val_acc: 0.0918
-6
-loss: 12.6459 - acc: 0.2134 - val_loss: 13.5198 - val_acc: 0.1128
-7
-loss: 12.6034 - acc: 0.2163 - val_loss: 13.3755 - val_acc: 0.1279
-8
-loss: 12.5488 - acc: 0.2197 - val_loss: 13.4829 - val_acc: 0.1152
-9
-loss: 12.5123 - acc: 0.2219 - val_loss: 13.3271 - val_acc: 0.1274
-10
-loss: 12.4535 - acc: 0.2253 - val_loss: 13.4527 - val_acc: 0.1193
-11
-loss: 12.1906 - acc: 0.2341 - val_loss: 12.8482 - val_acc: 0.1520
-12
-loss: 11.8510 - acc: 0.2578 - val_loss: 13.0312 - val_acc: 0.1339
-13
-loss: 11.7181 - acc: 0.2673 - val_loss: 12.9417 - val_acc: 0.1310
-14
-loss: 11.6444 - acc: 0.2747 - val_loss: 13.1463 - val_acc: 0.1261
-15
-loss: 11.5406 - acc: 0.2820 - val_loss: 12.7084 - val_acc: 0.1520
-16
-loss: 11.4070 - acc: 0.2859 - val_loss: 13.5017 - val_acc: 0.1065
-17
-loss: 11.2333 - acc: 0.2983 - val_loss: 12.4880 - val_acc: 0.1618
-18
-loss: 11.1267 - acc: 0.3069 - val_loss: 12.8593 - val_acc: 0.1383
-19
-loss: 10.8580 - acc: 0.3181 - val_loss: 12.3135 - val_acc: 0.1701
-20
-loss: 10.5018 - acc: 0.3384 - val_loss: 12.5175 - val_acc: 0.1491
-21
-loss: 10.2014 - acc: 0.3591 - val_loss: 11.9474 - val_acc: 0.1750
-22
-loss: 9.9862 - acc: 0.3745 - val_loss: 12.2572 - val_acc: 0.1676
-23
-loss: 9.8521 - acc: 0.3843 - val_loss: 12.1653 - val_acc: 0.1779
-24
-loss: 9.7224 - acc: 0.3914 - val_loss: 12.0055 - val_acc: 0.1730
-25
-loss: 9.5585 - acc: 0.4021 - val_loss: 12.4714 - val_acc: 0.1540
-26
-loss: 9.4464 - acc: 0.4087 - val_loss: 11.9570 - val_acc: 0.1828
-27
-loss: 9.1884 - acc: 0.4236 - val_loss: 11.7011 - val_acc: 0.1994
-28
-loss: 9.0484 - acc: 0.4326 - val_loss: 11.7650 - val_acc: 0.1857
-29
-loss: 8.9309 - acc: 0.4409 - val_loss: 11.4276 - val_acc: 0.2043
-30
-loss: 8.7909 - acc: 0.4490 - val_loss: 11.5945 - val_acc: 0.1935
-31
-loss: 8.5723 - acc: 0.4619 - val_loss: 12.4337 - val_acc: 0.1476
-32
-loss: 8.4238 - acc: 0.4705 - val_loss: 11.5774 - val_acc: 0.1891
-33
-loss: 8.2853 - acc: 0.4827 - val_loss: 11.6818 - val_acc: 0.2019
-34
-loss: 8.2245 - acc: 0.4851 - val_loss: 11.3059 - val_acc: 0.2155
-35
-loss: 8.1669 - acc: 0.4919 - val_loss: 11.2012 - val_acc: 0.2248
-36
-loss: 8.0762 - acc: 0.4961 - val_loss: 10.9456 - val_acc: 0.2341
-37
-loss: 7.9164 - acc: 0.5029 - val_loss: 12.4336 - val_acc: 0.1500
-38
-loss: 7.7540 - acc: 0.5149 - val_loss: 11.7829 - val_acc: 0.1799
-39
-loss: 7.5718 - acc: 0.5256 - val_loss: 11.9436 - val_acc: 0.1676
-40
-loss: 7.4425 - acc: 0.5339 - val_loss: 11.8560 - val_acc: 0.1745
-41
-loss: 7.2737 - acc: 0.5415 - val_loss: 11.2500 - val_acc: 0.2151
-42
-loss: 7.1229 - acc: 0.5549 - val_loss: 11.2600 - val_acc: 0.2139
-43
-loss: 7.0881 - acc: 0.5574 - val_loss: 11.1081 - val_acc: 0.2222
-44
-loss: 7.0403 - acc: 0.5610 - val_loss: 11.4512 - val_acc: 0.2017
-45
-loss: 6.9729 - acc: 0.5657 - val_loss: 10.4292 - val_acc: 0.2515
-46
-loss: 6.8474 - acc: 0.5701 - val_loss: 10.9254 - val_acc: 0.2261
-47
-loss: 6.7398 - acc: 0.5781 - val_loss: 10.8944 - val_acc: 0.2280
-48
-loss: 6.5778 - acc: 0.5859 - val_loss: 11.2798 - val_acc: 0.2007
-49
-loss: 6.3905 - acc: 0.5972 - val_loss: 11.5507 - val_acc: 0.1934
-50
-loss: 6.2924 - acc: 0.6057 - val_loss: 10.3941 - val_acc: 0.2397
-1
-loss: 6.1980	acc: 0.6099	val_loss: 10.3946	val_acc: 0.2485
-2
-loss: 6.0595	acc: 0.6182	val_loss: 10.4822	val_acc: 0.2500
-3
-loss: 5.9103	acc: 0.6299	val_loss: 10.2590	val_acc: 0.2632
-4
-loss: 5.7713	acc: 0.6379	val_loss: 10.6219	val_acc: 0.2285
-5
-loss: 5.6261	acc: 0.6450	val_loss: 10.3473	val_acc: 0.2451
-6
-loss: 5.5375	acc: 0.6543	val_loss: 10.3221	val_acc: 0.2554
-7
-loss: 5.4772	acc: 0.6582	val_loss: 10.2619	val_acc: 0.2539
-8
-loss: 5.4418	acc: 0.6606	val_loss: 10.2392	val_acc: 0.2534
-9
-loss: 5.2501	acc: 0.6694	val_loss: 10.4961	val_acc: 0.2383
-10
-loss: 5.1008	acc: 0.6799	val_loss: 9.9283	val_acc: 0.2693
-11
-loss: 5.0316	acc: 0.6858	val_loss: 10.4447	val_acc: 0.2410
-12
-loss: 4.9047	acc: 0.6921	val_loss: 10.1988	val_acc: 0.2630
-13
-loss: 4.8028	acc: 0.6987	val_loss: 9.9218	val_acc: 0.2776
-14
-loss: 4.6774	acc: 0.7063	val_loss: 10.8989	val_acc: 0.2195
-15
-loss: 4.6498	acc: 0.7104	val_loss: 9.8771	val_acc: 0.2659
-16
-loss: 4.6434	acc: 0.7119	val_loss: 9.6898	val_acc: 0.2835
-17
-loss: 4.6446	acc: 0.7117	val_loss: 9.9093	val_acc: 0.2713
-18
-loss: 4.5844	acc: 0.7129	val_loss: 9.9648	val_acc: 0.2600
-19
-loss: 4.4240	acc: 0.7195	val_loss: 10.1467	val_acc: 0.2649
-20
-loss: 4.2009	acc: 0.7302	val_loss: 10.6374	val_acc: 0.2209
-21
-loss: 4.0620	acc: 0.7419	val_loss: 10.6451	val_acc: 0.2395
-22
-loss: 3.9754	acc: 0.7483	val_loss: 11.4160	val_acc: 0.1921
-23
-loss: 3.8862	acc: 0.7549	val_loss: 10.2771	val_acc: 0.2483
-24
-loss: 3.7775	acc: 0.7627	val_loss: 9.8892	val_acc: 0.2810
-25
-loss: 3.6924	acc: 0.7678	val_loss: 10.2934	val_acc: 0.2429
-26
-loss: 3.5319	acc: 0.7756	val_loss: 11.3650	val_acc: 0.1794
-27
-loss: 3.4306	acc: 0.7822	val_loss: 10.5235	val_acc: 0.2424
-28
-loss: 3.3512	acc: 0.7896	val_loss: 9.4941	val_acc: 0.2825
-29
-loss: 3.3405	acc: 0.7925	val_loss: 9.3807	val_acc: 0.3016
-30
-loss: 3.3324	acc: 0.7927	val_loss: 8.8708	val_acc: 0.3216
-31
-loss: 3.2718	acc: 0.7939	val_loss: 9.7025	val_acc: 0.2849
-32
-loss: 3.1134	acc: 0.8020	val_loss: 9.9748	val_acc: 0.2600
-33
-loss: 2.9669	acc: 0.8118	val_loss: 10.0075	val_acc: 0.2678
-34
-loss: 2.8941	acc: 0.8191	val_loss: 9.5428	val_acc: 0.2810
-35
-loss: 2.8729	acc: 0.8179	val_loss: 9.7226	val_acc: 0.2820
-36
-loss: 2.7471	acc: 0.8267	val_loss: 8.5505	val_acc: 0.3363
-37
-loss: 2.6803	acc: 0.8313	val_loss: 8.9803	val_acc: 0.3231
-38
-loss: 2.6350	acc: 0.8354	val_loss: 8.8604	val_acc: 0.3353
-39
-loss: 2.5756	acc: 0.8376	val_loss: 9.1550	val_acc: 0.3094
-40
-loss: 2.5201	acc: 0.8428	val_loss: 9.5209	val_acc: 0.2830
-41
-loss: 2.4854	acc: 0.8442	val_loss: 9.5047	val_acc: 0.2854
-42
-loss: 2.3184	acc: 0.8513	val_loss: 9.1428	val_acc: 0.3081
-43
-loss: 2.2620	acc: 0.8550	val_loss: 8.7374	val_acc: 0.3198
-44
-loss: 2.1918	acc: 0.8618	val_loss: 9.1771	val_acc: 0.3027
-45
-loss: 2.1408	acc: 0.8657	val_loss: 8.9122	val_acc: 0.3120
-46
-loss: 2.0994	acc: 0.8679	val_loss: 11.6074	val_acc: 0.1782
-47
-loss: 2.0320	acc: 0.8708	val_loss: 8.8647	val_acc: 0.3105
-48
-loss: 1.9340	acc: 0.8782	val_loss: 9.5153	val_acc: 0.2817
-49
-loss: 1.8875	acc: 0.8813	val_loss: 9.0540	val_acc: 0.3105
-50
-loss: 1.8001	acc: 0.8862	val_loss: 9.0651	val_acc: 0.3198
+1	loss: 6.4977	acc: 0.0291	val_loss: 5.1014	val_acc: 0.0508
+2	loss: 4.3510	acc: 0.1228	val_loss: 4.3140	val_acc: 0.1914
+3	loss: 3.4170	acc: 0.2329	val_loss: 3.5394	val_acc: 0.2500
+4	loss: 2.8458	acc: 0.3264	val_loss: 3.6144	val_acc: 0.2031
+5	loss: 2.4460	acc: 0.4026	val_loss: 3.2732	val_acc: 0.2852
+6	loss: 2.1460	acc: 0.4724	val_loss: 3.0447	val_acc: 0.3828
+7	loss: 1.9155	acc: 0.5239	val_loss: 3.0068	val_acc: 0.3906
+8	loss: 1.7280	acc: 0.5691	val_loss: 2.9895	val_acc: 0.3945
+9	loss: 1.5717	acc: 0.6099	val_loss: 3.2345	val_acc: 0.3867
+10	loss: 1.4375	acc: 0.6423	val_loss: 2.9900	val_acc: 0.3750
+11	loss: 1.3197	acc: 0.6733	val_loss: 2.8878	val_acc: 0.4453
+12	loss: 1.2137	acc: 0.6968	val_loss: 3.0043	val_acc: 0.4453
+13	loss: 1.1197	acc: 0.7188	val_loss: 2.6508	val_acc: 0.4805
+14	loss: 1.0380	acc: 0.7388	val_loss: 2.8839	val_acc: 0.4727
+15	loss: 0.9626	acc: 0.7563	val_loss: 3.0167	val_acc: 0.4180
+16	loss: 0.8950	acc: 0.7734	val_loss: 3.0748	val_acc: 0.4297
+17	loss: 0.8333	acc: 0.7883	val_loss: 2.6676	val_acc: 0.4648
+18	loss: 0.7778	acc: 0.8042	val_loss: 2.8488	val_acc: 0.4961
+19	loss: 0.7256	acc: 0.8188	val_loss: 3.0684	val_acc: 0.4688
+20	loss: 0.6797	acc: 0.8262	val_loss: 2.7374	val_acc: 0.5156
+21	loss: 0.6386	acc: 0.8398	val_loss: 2.6478	val_acc: 0.5117
+22	loss: 0.5993	acc: 0.8496	val_loss: 2.8191	val_acc: 0.5117
+23	loss: 0.5638	acc: 0.8604	val_loss: 2.7634	val_acc: 0.5430
+24	loss: 0.5309	acc: 0.8667	val_loss: 2.6866	val_acc: 0.5039
+25	loss: 0.4944	acc: 0.8767	val_loss: 3.1330	val_acc: 0.4883
+26	loss: 0.4636	acc: 0.8843	val_loss: 3.2092	val_acc: 0.4531
+27	loss: 0.4356	acc: 0.8906	val_loss: 2.5653	val_acc: 0.5391
+28	loss: 0.4115	acc: 0.8972	val_loss: 3.0230	val_acc: 0.5273
+29	loss: 0.3856	acc: 0.9067	val_loss: 3.2831	val_acc: 0.4414
+30	loss: 0.3612	acc: 0.9111	val_loss: 3.2927	val_acc: 0.4724
+31	loss: 0.3431	acc: 0.9155	val_loss: 2.7877	val_acc: 0.5078
+32	loss: 0.3176	acc: 0.9214	val_loss: 3.0555	val_acc: 0.5117
+33	loss: 0.3001	acc: 0.9255	val_loss: 3.1472	val_acc: 0.5156
+34	loss: 0.2844	acc: 0.9302	val_loss: 2.8081	val_acc: 0.5586
+35	loss: 0.2639	acc: 0.9333	val_loss: 2.9761	val_acc: 0.5547
+36	loss: 0.2538	acc: 0.9385	val_loss: 3.3499	val_acc: 0.4803
+37	loss: 0.2427	acc: 0.9412	val_loss: 2.5670	val_acc: 0.5742
+38	loss: 0.2297	acc: 0.9446	val_loss: 3.0347	val_acc: 0.5312
+39	loss: 0.2209	acc: 0.9456	val_loss: 2.6050	val_acc: 0.5156
+40	loss: 0.2057	acc: 0.9526	val_loss: 2.8806	val_acc: 0.5391
+41	loss: 0.1906	acc: 0.9546	val_loss: 3.4844	val_acc: 0.5039
+42	loss: 0.1842	acc: 0.9573	val_loss: 3.1740	val_acc: 0.5352
+43	loss: 0.1768	acc: 0.9607	val_loss: 3.4956	val_acc: 0.5234
+44	loss: 0.1664	acc: 0.9607	val_loss: 3.1499	val_acc: 0.5273
+45	loss: 0.1579	acc: 0.9622	val_loss: 3.4685	val_acc: 0.5078
+46	loss: 0.1560	acc: 0.9607	val_loss: 3.2492	val_acc: 0.5273
+47	loss: 0.1422	acc: 0.9646	val_loss: 3.3802	val_acc: 0.4648
+48	loss: 0.1363	acc: 0.9670	val_loss: 3.1693	val_acc: 0.4961
+49	loss: 0.1308	acc: 0.9680	val_loss: 3.0463	val_acc: 0.5391
+50	loss: 0.1235	acc: 0.9680	val_loss: 4.1001	val_acc: 0.4805
+1	loss: 3.2192	acc: 0.5613	val_loss: 2.7964	val_acc: 0.5791
+2	loss: 2.8498	acc: 0.5969	val_loss: 2.7435	val_acc: 0.5850
+3	loss: 2.6111	acc: 0.6238	val_loss: 2.6770	val_acc: 0.5904
+4	loss: 2.4036	acc: 0.6394	val_loss: 2.6425	val_acc: 0.5996
+5	loss: 2.2327	acc: 0.6560	val_loss: 2.5536	val_acc: 0.6055
+6	loss: 2.0840	acc: 0.6765	val_loss: 2.5972	val_acc: 0.6055
+7	loss: 1.9440	acc: 0.6953	val_loss: 2.6022	val_acc: 0.5991
+8	loss: 1.8241	acc: 0.7104	val_loss: 2.5575	val_acc: 0.6040
+9	loss: 1.7092	acc: 0.7253	val_loss: 2.5656	val_acc: 0.6094
+10	loss: 1.6028	acc: 0.7400	val_loss: 2.5277	val_acc: 0.6084
+11	loss: 1.5048	acc: 0.7566	val_loss: 2.5633	val_acc: 0.6113
+12	loss: 1.4166	acc: 0.7676	val_loss: 2.5113	val_acc: 0.6099
+13	loss: 1.3338	acc: 0.7781	val_loss: 2.5670	val_acc: 0.6031
+14	loss: 1.2541	acc: 0.7927	val_loss: 2.5160	val_acc: 0.6134
+15	loss: 1.1847	acc: 0.8052	val_loss: 2.6462	val_acc: 0.6007
+16	loss: 1.1228	acc: 0.8162	val_loss: 2.6077	val_acc: 0.6090
+17	loss: 1.0634	acc: 0.8257	val_loss: 2.5530	val_acc: 0.6051
+18	loss: 1.0095	acc: 0.8369	val_loss: 2.6255	val_acc: 0.5963
+19	loss: 0.9580	acc: 0.8469	val_loss: 2.5242	val_acc: 0.6046
+20	loss: 0.9149	acc: 0.8586	val_loss: 2.6752	val_acc: 0.6022
+21	loss: 0.8674	acc: 0.8699	val_loss: 2.4506	val_acc: 0.6227
+22	loss: 0.8305	acc: 0.8740	val_loss: 2.6011	val_acc: 0.6085
+23	loss: 0.7929	acc: 0.8845	val_loss: 2.6051	val_acc: 0.6056
+24	loss: 0.7585	acc: 0.8906	val_loss: 2.6093	val_acc: 0.5963
+25	loss: 0.7283	acc: 0.8958	val_loss: 2.7364	val_acc: 0.6017
+26	loss: 0.7024	acc: 0.9053	val_loss: 2.6642	val_acc: 0.6036
+27	loss: 0.6734	acc: 0.9111	val_loss: 2.6913	val_acc: 0.5963
+28	loss: 0.6511	acc: 0.9119	val_loss: 2.7788	val_acc: 0.5968
+29	loss: 0.6286	acc: 0.9172	val_loss: 2.6811	val_acc: 0.5953
+30	loss: 0.6101	acc: 0.9211	val_loss: 2.7871	val_acc: 0.5973
+31	loss: 0.5914	acc: 0.9268	val_loss: 2.7677	val_acc: 0.5865
+32	loss: 0.5726	acc: 0.9290	val_loss: 2.7014	val_acc: 0.5943
+33	loss: 0.5559	acc: 0.9329	val_loss: 2.9031	val_acc: 0.5924
+34	loss: 0.5488	acc: 0.9346	val_loss: 2.7474	val_acc: 0.5885
+35	loss: 0.5321	acc: 0.9368	val_loss: 2.8391	val_acc: 0.6017
+36	loss: 0.5095	acc: 0.9431	val_loss: 2.6877	val_acc: 0.6017
+37	loss: 0.4988	acc: 0.9436	val_loss: 2.8867	val_acc: 0.5841
+38	loss: 0.4885	acc: 0.9463	val_loss: 2.7996	val_acc: 0.6031
+39	loss: 0.4790	acc: 0.9504	val_loss: 2.7701	val_acc: 0.6065
+40	loss: 0.4674	acc: 0.9512	val_loss: 2.8357	val_acc: 0.5968
+41	loss: 0.4523	acc: 0.9536	val_loss: 2.7922	val_acc: 0.6051
+42	loss: 0.4487	acc: 0.9548	val_loss: 2.8408	val_acc: 0.5914
+43	loss: 0.4365	acc: 0.9575	val_loss: 2.8762	val_acc: 0.5948
+44	loss: 0.4312	acc: 0.9597	val_loss: 2.7804	val_acc: 0.6095
+45	loss: 0.4227	acc: 0.9604	val_loss: 2.8133	val_acc: 0.5977
+46	loss: 0.4192	acc: 0.9624	val_loss: 2.7895	val_acc: 0.6016
+47	loss: 0.4105	acc: 0.9629	val_loss: 2.7101	val_acc: 0.6138
+48	loss: 0.4039	acc: 0.9653	val_loss: 2.8177	val_acc: 0.6040
+49	loss: 0.3946	acc: 0.9668	val_loss: 2.7849	val_acc: 0.5996
+50	loss: 0.3948	acc: 0.9658	val_loss: 2.9010	val_acc: 0.5977
+1	loss: 14.9163	acc: 0.0369	val_loss: 14.6963	val_acc: 0.0586
+2	loss: 13.7029	acc: 0.1128	val_loss: 13.6475	val_acc: 0.1001
+3	loss: 13.0862	acc: 0.1743	val_loss: 13.6149	val_acc: 0.0986
+4	loss: 12.8731	acc: 0.1926	val_loss: 13.6992	val_acc: 0.1064
+5	loss: 12.7134	acc: 0.2065	val_loss: 13.9209	val_acc: 0.0918
+6	loss: 12.6459	acc: 0.2134	val_loss: 13.5198	val_acc: 0.1128
+7	loss: 12.6034	acc: 0.2163	val_loss: 13.3755	val_acc: 0.1279
+8	loss: 12.5488	acc: 0.2197	val_loss: 13.4829	val_acc: 0.1152
+9	loss: 12.5123	acc: 0.2219	val_loss: 13.3271	val_acc: 0.1274
+10	loss: 12.4535	acc: 0.2253	val_loss: 13.4527	val_acc: 0.1193
+11	loss: 12.1906	acc: 0.2341	val_loss: 12.8482	val_acc: 0.1520
+12	loss: 11.8510	acc: 0.2578	val_loss: 13.0312	val_acc: 0.1339
+13	loss: 11.7181	acc: 0.2673	val_loss: 12.9417	val_acc: 0.1310
+14	loss: 11.6444	acc: 0.2747	val_loss: 13.1463	val_acc: 0.1261
+15	loss: 11.5406	acc: 0.2820	val_loss: 12.7084	val_acc: 0.1520
+16	loss: 11.4070	acc: 0.2859	val_loss: 13.5017	val_acc: 0.1065
+17	loss: 11.2333	acc: 0.2983	val_loss: 12.4880	val_acc: 0.1618
+18	loss: 11.1267	acc: 0.3069	val_loss: 12.8593	val_acc: 0.1383
+19	loss: 10.8580	acc: 0.3181	val_loss: 12.3135	val_acc: 0.1701
+20	loss: 10.5018	acc: 0.3384	val_loss: 12.5175	val_acc: 0.1491
+21	loss: 10.2014	acc: 0.3591	val_loss: 11.9474	val_acc: 0.1750
+22	loss: 9.9862	acc: 0.3745	val_loss: 12.2572	val_acc: 0.1676
+23	loss: 9.8521	acc: 0.3843	val_loss: 12.1653	val_acc: 0.1779
+24	loss: 9.7224	acc: 0.3914	val_loss: 12.0055	val_acc: 0.1730
+25	loss: 9.5585	acc: 0.4021	val_loss: 12.4714	val_acc: 0.1540
+26	loss: 9.4464	acc: 0.4087	val_loss: 11.9570	val_acc: 0.1828
+27	loss: 9.1884	acc: 0.4236	val_loss: 11.7011	val_acc: 0.1994
+28	loss: 9.0484	acc: 0.4326	val_loss: 11.7650	val_acc: 0.1857
+29	loss: 8.9309	acc: 0.4409	val_loss: 11.4276	val_acc: 0.2043
+30	loss: 8.7909	acc: 0.4490	val_loss: 11.5945	val_acc: 0.1935
+31	loss: 8.5723	acc: 0.4619	val_loss: 12.4337	val_acc: 0.1476
+32	loss: 8.4238	acc: 0.4705	val_loss: 11.5774	val_acc: 0.1891
+33	loss: 8.2853	acc: 0.4827	val_loss: 11.6818	val_acc: 0.2019
+34	loss: 8.2245	acc: 0.4851	val_loss: 11.3059	val_acc: 0.2155
+35	loss: 8.1669	acc: 0.4919	val_loss: 11.2012	val_acc: 0.2248
+36	loss: 8.0762	acc: 0.4961	val_loss: 10.9456	val_acc: 0.2341
+37	loss: 7.9164	acc: 0.5029	val_loss: 12.4336	val_acc: 0.1500
+38	loss: 7.7540	acc: 0.5149	val_loss: 11.7829	val_acc: 0.1799
+39	loss: 7.5718	acc: 0.5256	val_loss: 11.9436	val_acc: 0.1676
+40	loss: 7.4425	acc: 0.5339	val_loss: 11.8560	val_acc: 0.1745
+41	loss: 7.2737	acc: 0.5415	val_loss: 11.2500	val_acc: 0.2151
+42	loss: 7.1229	acc: 0.5549	val_loss: 11.2600	val_acc: 0.2139
+43	loss: 7.0881	acc: 0.5574	val_loss: 11.1081	val_acc: 0.2222
+44	loss: 7.0403	acc: 0.5610	val_loss: 11.4512	val_acc: 0.2017
+45	loss: 6.9729	acc: 0.5657	val_loss: 10.4292	val_acc: 0.2515
+46	loss: 6.8474	acc: 0.5701	val_loss: 10.9254	val_acc: 0.2261
+47	loss: 6.7398	acc: 0.5781	val_loss: 10.8944	val_acc: 0.2280
+48	loss: 6.5778	acc: 0.5859	val_loss: 11.2798	val_acc: 0.2007
+49	loss: 6.3905	acc: 0.5972	val_loss: 11.5507	val_acc: 0.1934
+50	loss: 6.2924	acc: 0.6057	val_loss: 10.3941	val_acc: 0.2397
+1	loss: 6.1980	acc: 0.6099	val_loss: 10.3946	val_acc: 0.2485
+2	loss: 6.0595	acc: 0.6182	val_loss: 10.4822	val_acc: 0.2500
+3	loss: 5.9103	acc: 0.6299	val_loss: 10.2590	val_acc: 0.2632
+4	loss: 5.7713	acc: 0.6379	val_loss: 10.6219	val_acc: 0.2285
+5	loss: 5.6261	acc: 0.6450	val_loss: 10.3473	val_acc: 0.2451
+6	loss: 5.5375	acc: 0.6543	val_loss: 10.3221	val_acc: 0.2554
+7	loss: 5.4772	acc: 0.6582	val_loss: 10.2619	val_acc: 0.2539
+8	loss: 5.4418	acc: 0.6606	val_loss: 10.2392	val_acc: 0.2534
+9	loss: 5.2501	acc: 0.6694	val_loss: 10.4961	val_acc: 0.2383
+10	loss: 5.1008	acc: 0.6799	val_loss: 9.9283	val_acc: 0.2693
+11	loss: 5.0316	acc: 0.6858	val_loss: 10.4447	val_acc: 0.2410
+12	loss: 4.9047	acc: 0.6921	val_loss: 10.1988	val_acc: 0.2630
+13	loss: 4.8028	acc: 0.6987	val_loss: 9.9218	val_acc: 0.2776
+14	loss: 4.6774	acc: 0.7063	val_loss: 10.8989	val_acc: 0.2195
+15	loss: 4.6498	acc: 0.7104	val_loss: 9.8771	val_acc: 0.2659
+16	loss: 4.6434	acc: 0.7119	val_loss: 9.6898	val_acc: 0.2835
+17	loss: 4.6446	acc: 0.7117	val_loss: 9.9093	val_acc: 0.2713
+18	loss: 4.5844	acc: 0.7129	val_loss: 9.9648	val_acc: 0.2600
+19	loss: 4.4240	acc: 0.7195	val_loss: 10.1467	val_acc: 0.2649
+20	loss: 4.2009	acc: 0.7302	val_loss: 10.6374	val_acc: 0.2209
+21	loss: 4.0620	acc: 0.7419	val_loss: 10.6451	val_acc: 0.2395
+22	loss: 3.9754	acc: 0.7483	val_loss: 11.4160	val_acc: 0.1921
+23	loss: 3.8862	acc: 0.7549	val_loss: 10.2771	val_acc: 0.2483
+24	loss: 3.7775	acc: 0.7627	val_loss: 9.8892	val_acc: 0.2810
+25	loss: 3.6924	acc: 0.7678	val_loss: 10.2934	val_acc: 0.2429
+26	loss: 3.5319	acc: 0.7756	val_loss: 11.3650	val_acc: 0.1794
+27	loss: 3.4306	acc: 0.7822	val_loss: 10.5235	val_acc: 0.2424
+28	loss: 3.3512	acc: 0.7896	val_loss: 9.4941	val_acc: 0.2825
+29	loss: 3.3405	acc: 0.7925	val_loss: 9.3807	val_acc: 0.3016
+30	loss: 3.3324	acc: 0.7927	val_loss: 8.8708	val_acc: 0.3216
+31	loss: 3.2718	acc: 0.7939	val_loss: 9.7025	val_acc: 0.2849
+32	loss: 3.1134	acc: 0.8020	val_loss: 9.9748	val_acc: 0.2600
+33	loss: 2.9669	acc: 0.8118	val_loss: 10.0075	val_acc: 0.2678
+34	loss: 2.8941	acc: 0.8191	val_loss: 9.5428	val_acc: 0.2810
+35	loss: 2.8729	acc: 0.8179	val_loss: 9.7226	val_acc: 0.2820
+36	loss: 2.7471	acc: 0.8267	val_loss: 8.5505	val_acc: 0.3363
+37	loss: 2.6803	acc: 0.8313	val_loss: 8.9803	val_acc: 0.3231
+38	loss: 2.6350	acc: 0.8354	val_loss: 8.8604	val_acc: 0.3353
+39	loss: 2.5756	acc: 0.8376	val_loss: 9.1550	val_acc: 0.3094
+40	loss: 2.5201	acc: 0.8428	val_loss: 9.5209	val_acc: 0.2830
+41	loss: 2.4854	acc: 0.8442	val_loss: 9.5047	val_acc: 0.2854
+42	loss: 2.3184	acc: 0.8513	val_loss: 9.1428	val_acc: 0.3081
+43	loss: 2.2620	acc: 0.8550	val_loss: 8.7374	val_acc: 0.3198
+44	loss: 2.1918	acc: 0.8618	val_loss: 9.1771	val_acc: 0.3027
+45	loss: 2.1408	acc: 0.8657	val_loss: 8.9122	val_acc: 0.3120
+46	loss: 2.0994	acc: 0.8679	val_loss: 11.6074	val_acc: 0.1782
+47	loss: 2.0320	acc: 0.8708	val_loss: 8.8647	val_acc: 0.3105
+48	loss: 1.9340	acc: 0.8782	val_loss: 9.5153	val_acc: 0.2817
+49	loss: 1.8875	acc: 0.8813	val_loss: 9.0540	val_acc: 0.3105
+50	loss: 1.8001	acc: 0.8862	val_loss: 9.0651	val_acc: 0.3198	
